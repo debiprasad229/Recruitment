@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Crew for Recruitment
 
 **DISCALIMER** This example uses cookies to authenticate to LinkedIn, and it's meant only as an example or the selenium tool, using this for real-world applications may violate LinkedIn's terms of service and could lead to your account being banned. We do not endorse or encourage the use of this tool for any real-world applications.
@@ -51,3 +52,6 @@ It uses GPT-4o by default so you should have access to that to run it.
 
 ## License
 This project is released under the MIT License.
+=======
+# Recruitment
+>>>>>>> 971c4b81be3e888f05d3f3afba32a2ebf261cfdf
